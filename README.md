@@ -1,4 +1,4 @@
-### Python Django web application for a notepad application using SQL
+### Python Django web application for a notepad using SQL
 
 ### Instructions
 
